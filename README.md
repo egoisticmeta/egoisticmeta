@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @egoisticmeta
+- 🌱 I’m currently learning c++ and assembly
+- 💞️ I’m not looking to coorperate
+- 📫 Discord: nauseameta
+- 😄 Pronouns: He/Him
